@@ -152,6 +152,7 @@ information.
 ### Datasheet authors
 <!-- {{DATASHEET_AUTHORS_LIST}} -->
 <!-- A list in the format of: Your Name &lt;email@email.com&gt; -->
+Vivian Stamou <vivianstamou@gmail.com>
 
 ### Citation guidelines
 <!-- {{CITATION_DESCRIPTION}} -->
